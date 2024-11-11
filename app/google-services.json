@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144682907066",
+    "project_id": "mess-master-62087",
+    "storage_bucket": "mess-master-62087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144682907066:android:a316fb943e64331d289983",
+        "android_client_info": {
+          "package_name": "com.example.messmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcn8plCCwD3iAxXge9BrwYAa6FRzSq8hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
